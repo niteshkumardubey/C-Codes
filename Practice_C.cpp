@@ -8,6 +8,5 @@ int main()
 {
 	extern int i;
 	printf("Value of external variable is: %d\n",i);
-    return ;
-    printf("Nitesh %d", i);
+    return 0;
 }
